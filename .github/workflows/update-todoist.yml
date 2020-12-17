@@ -3,8 +3,8 @@
 on:
   workflow_dispatch:
   schedule:
-    # Runs every minute
-    - cron: "* * * * *"
+    # Runs every 2 Hour
+    - cron: "0 */2 * * *"
       
 jobs:
   update-readme:
