@@ -35,10 +35,9 @@ Hi, I'm [Abhay Chaudhary!], a passionate self-taught Researcher and Data-Analyst
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 6 mins     █████████▒░░░░░░░░░░░░░░░   37.88 %
-HTML         50 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 %
-Java         25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Other        23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Python       1 hr 12 mins    ████████▒░░░░░░░░░░░░░░░░   33.59 %
+HTML         53 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
+Other        23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
 ```
 
 <!--END_SECTION:waka-->
