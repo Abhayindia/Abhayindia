@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/abhay-chaudhary-217450146/">
+<a href="https://www.linkedin.com/in/achaudharyr/">
   <img align="left" alt="Abhay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm [Abhay Chaudhary!], a passionate self-taught Researcher and Data-Analyst 🚀 from India.
+Hi, I'm [Abhay Chaudhary!], a passionate Data-Analyst 🚀.
 
   <img align="right" alt="GIF" src="https://github.com/Abhayindia/Abhayindia/blob/main/code.gif?raw=true" width="500" height="320" />
   
